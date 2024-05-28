@@ -1,0 +1,83 @@
+#menuBG {
+    width:600px;
+    height:470px;
+    margin:10px auto;
+    text-align: center;
+    }
+
+#frmMenu {
+    width:600px;
+    height:200px;
+    margin: 0 auto;
+    text-align: left;
+    }
+
+#totalPrice {
+    width:200px;
+    height:190px;
+    margin:0 auto;
+    float:right;
+    }
+
+.left {
+    width:200px;
+    height:200px;
+    float:left;
+    }
+
+.center {
+    width:200px;
+    height:200px;
+    float: left;
+    }
+
+.right {
+    width:200px;
+    height:200px;
+    float:left;
+    }
+
+#showText {
+    width:200px;
+    height:190px;
+    margin:0 auto;
+    float:left;
+    }
+
+#cart {
+    top: 0; margin:0px auto;
+    width:400px;
+    height:200px;
+    }
+
+#btnOrder {
+    display: block;
+    margin:10px auto;
+    width:100px;
+    height:40px;
+}
+
+body {
+    background-color: #9cc9a7;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #008d13;
+    text-shadow: 2px 2px 3px rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    text-shadow: 2px 2px 3px rgb(255, 0, 0);
+}
+
+div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+}
+
+
+
