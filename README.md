@@ -1,5 +1,5 @@
 # JavaScript_Projects
- This repository contains some small coding projects I made for The Tech Academy's JavaScript Course
+ This repository contains my JavaScript-centric coding projects.
 
 Come back soon for more updates!
 
